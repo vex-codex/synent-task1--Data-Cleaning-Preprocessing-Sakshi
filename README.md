@@ -132,18 +132,4 @@ https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK
 
 **Sakshi Patel**
 
----
 
-## ⭐ Acknowledgment
-
-This project is part of a **Machine Learning from Scratch** journey using Google Colab.
-
----
-
-If you want next level improvement, I can:
-
-* Add a **“Open in Colab” clickable badge**
-* Insert **actual code snippets**
-* Design a **futuristic GitHub banner (like your ML repo image)**
-
-Just tell me 👍
